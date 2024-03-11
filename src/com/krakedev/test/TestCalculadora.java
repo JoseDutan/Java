@@ -1,4 +1,6 @@
-package com.krakedev;
+package com.krakedev.test;
+
+import com.krakedev.Calculadora;
 
 public class TestCalculadora {
 
@@ -21,7 +23,6 @@ public class TestCalculadora {
 		System.out.println("RESULTADO DIVIDIR: " + resultadoDividir);
 		System.out.println("RESULTADO PROMEDIAR: " + resultadoPromediar);
 		calcu.mostrarResultado();
-		
 	}
 
 }
