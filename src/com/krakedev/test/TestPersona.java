@@ -29,7 +29,7 @@ public class TestPersona {
 		System.out.println("------------");
 
 		// 5) Accedo a los atributos
-		System.out.println("nombre:" + p.getNombre());
+		System.out.println("nombre:" + p3.getNombre());
 		System.out.println("edad: " + p.getEdad());
 		System.out.println("estatura:" + p.getEdad());
 
